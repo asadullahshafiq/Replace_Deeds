@@ -1,0 +1,19 @@
+{
+  "name": "Replace Deeds",
+  "short_name": "Replace Deeds",
+  "description": "Advanced habit tracker with streak system and growing tree",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080c14",
+  "theme_color": "#0a0f1a",
+  "orientation": "portrait",
+  "categories": ["productivity", "lifestyle", "health"],
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%230a0f1a'/><circle cx='50' cy='50' r='35' fill='none' stroke='%231e2d47' stroke-width='3'/><path d='M30 50 Q35 65 50 70 Q65 65 70 50' fill='none' stroke='%2300d4ff' stroke-width='4' stroke-linecap='round'/><path d='M68 30 Q72 40 70 50' fill='none' stroke='%23333' stroke-width='3' stroke-linecap='round'/><path d='M40 50 L48 60 L65 35' stroke='%2300d4ff' stroke-width='5' stroke-linecap='round' stroke-linejoin='round' fill='none'/></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
